@@ -12,7 +12,7 @@ import scala.reflect.runtime.{universe => ru}
  * @Version 1.0
  *          Desc:
  */
-object Chapter2Demo {
+object Chapter2Demo2 {
   def main(args: Array[String]): Unit = {
     //利用偏函数筛选元素
 
